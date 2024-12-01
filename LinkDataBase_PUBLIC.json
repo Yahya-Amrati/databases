@@ -1,0 +1,26 @@
+[
+  {
+    "Links": "https://cdn.modrinth.com/data/NRjRiSSD/versions/xYL9nIiR/memoryleakfix-forge-pre1.17-1.1.5.jar",
+    "names": "memory_leaks_fix"
+  },
+  {
+    "Links": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/5VqjJ4M6/dynamic-fps-3.4.3%2Bminecraft-1.16.5-forge.jar",
+    "names": "dynamic_fps"
+  },
+  {
+    "Links": "https://cdn.modrinth.com/data/ZP7xHXtw/versions/MzxykxhG/Rrls-1.5.1-forge.jar",
+    "names": "rem_that_back"
+  },
+  {
+    "Links": "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.2-forge-1.16/entityculling-forge-mc1.16.5-1.5.2.jar",
+    "names": "entity_culling"
+  },
+  {
+    "Links": "https://cdn.modrinth.com/data/nmDcB62a/versions/Cc0b1kXl/modernfix-forge-5.18.0%2Bmc1.16.5.jar",
+    "names": "modern_fix"
+  },
+  {
+    "Links": "https://cdn.modrinth.com/data/uXXizFIs/versions/6gwDuh90/ferritecore-2.1.1-forge.jar",
+    "names": "ferrite_core"
+  }
+]
