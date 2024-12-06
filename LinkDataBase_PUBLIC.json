@@ -38,5 +38,9 @@
   {
     "Links": "https://cdn.modrinth.com/data/J81TRJWm/versions/MFN5Cgup/konkrete_forge_1.6.1_MC_1.16.2-1.16.5.jar",
     "names": "konkrete"
+  },
+  {
+    "Links": "https://cdn.modrinth.com/data/idMHQ4n2/versions/gVv49fTY/CustomSkinLoader_ForgeV1-14.21.2.jar",
+    "names": "customskinloader"
   }
 ]
