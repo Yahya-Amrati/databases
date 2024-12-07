@@ -42,5 +42,10 @@
   {
     "Links": "https://cdn.modrinth.com/data/idMHQ4n2/versions/gVv49fTY/CustomSkinLoader_ForgeV1-14.21.2.jar",
     "names": "customskinloader"
+  },
+  {
+    "Links": "https://cdn.modrinth.com/data/1bokaNcj/versions/uDQ1QOPA/Xaeros_Minimap_24.6.1_Forge_1.16.5.jar",
+    "names": "minimap"
   }
+  
 ]
