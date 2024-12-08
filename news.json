@@ -1,5 +1,6 @@
-{
-    "news": [
-        {"title": "le launcher est en beta test", "link": "https://discord.gg/tuxvZpwk"}
-    ]
-}
+[
+    {
+        "news": "Wle launcher est en beta test",
+        "link": "https://discord.gg/tuxvZpwk"
+    }
+]
